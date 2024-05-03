@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj": {}
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj": {
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj",
+        "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj",
         "projectName": "HRMS.Core",
-        "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj",
+        "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj",
         "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\obj\\",
+        "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj": {
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj",
+        "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj",
         "projectName": "HRMS.Entities",
-        "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj",
+        "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj",
         "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\obj\\",
+        "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj": {
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj",
+        "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj",
         "projectName": "HRMS.Helpers",
-        "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj",
+        "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj",
         "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\obj\\",
+        "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
+        "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
         "projectName": "HRMS.Interfaces",
-        "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
+        "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
         "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\obj\\",
+        "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +238,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj"
               },
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj"
               }
             }
           }
@@ -281,14 +281,14 @@
         }
       }
     },
-    "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj": {
+    "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj",
+        "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj",
         "projectName": "HRMS.Repositories",
-        "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj",
+        "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj",
         "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\obj\\",
+        "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -305,11 +305,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj"
               },
-              "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
-                "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj"
+              "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
+                "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj"
               }
             }
           }

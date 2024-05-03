@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckfx+ypRFhagopS+PTDAEsf6Lif7bRITanhrpEPueQViIqn4Lbr+VMtEdzlUPw/pnkZtdA+CrjW/iGTkzKk00w==",
+  "dgSpecHash": "skXigvCSzQEgWvGCDLaIoi+ZAc1fbmVDPiFS4oWoZr1tTIPUlO7nJFOFwGHOawa/xrxw8mHp5MPmSkbq7oIK4A==",
   "success": true,
-  "projectFilePath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj",
+  "projectFilePath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vivek Singh\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Vivek Singh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

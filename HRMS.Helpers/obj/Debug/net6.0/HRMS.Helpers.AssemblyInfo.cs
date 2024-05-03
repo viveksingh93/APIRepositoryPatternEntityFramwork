@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRMS.Helpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74853671611949c061e75d40a61f58d6c73a3b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ba2e7c75c0cb37ce63a427a2f64e11330e9c22")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRMS.Helpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRMS.Helpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

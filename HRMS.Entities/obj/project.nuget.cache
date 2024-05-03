@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2DX1qP3amf/IZUURyKGERoSAdP8l6uXbtxX2kjzhZBAt9CApwH0j60n1oJ4MTs6utBhCD9a4sY35xH8W8pfBQ==",
+  "dgSpecHash": "d2sx8Oh5ansI7VsiZGKN5MrCeQDCCa1cYP0dEvy63l0bCMGX1eYPBtj99uTynttKUcQco53XtvBa4oxaKH2VUg==",
   "success": true,
-  "projectFilePath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj",
+  "projectFilePath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vivek Singh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vivek Singh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

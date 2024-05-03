@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj",
+      "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj",
       "projectName": "HRMS.Entities",
-      "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj",
+      "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj",
       "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-      "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\obj\\",
+      "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

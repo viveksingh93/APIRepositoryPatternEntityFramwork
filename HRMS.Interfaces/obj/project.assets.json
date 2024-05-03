@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
+      "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
       "projectName": "HRMS.Interfaces",
-      "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
+      "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj",
       "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-      "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\obj\\",
+      "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2034,11 +2034,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj": {
-              "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Core\\HRMS.Core.csproj"
+            "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj": {
+              "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Core\\HRMS.Core.csproj"
             },
-            "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj": {
-              "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Entities\\HRMS.Entities.csproj"
+            "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj": {
+              "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Entities\\HRMS.Entities.csproj"
             }
           }
         }

@@ -2050,11 +2050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj",
+      "projectUniqueName": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj",
       "projectName": "HRMS.Repositories",
-      "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\HRMS.Repositories.csproj",
+      "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\HRMS.Repositories.csproj",
       "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-      "outputPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Repositories\\obj\\",
+      "outputPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2071,11 +2071,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj": {
-              "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Helpers\\HRMS.Helpers.csproj"
+            "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj": {
+              "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Helpers\\HRMS.Helpers.csproj"
             },
-            "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
-              "projectPath": "D:\\VivekPractice\\API Practice\\ApiScaffoldingWithRepositoryPattern\\HRMS.Interfaces\\HRMS.Interfaces.csproj"
+            "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj": {
+              "projectPath": "D:\\VivekPractice\\API Practice\\APIScaffolding\\HRMS.Interfaces\\HRMS.Interfaces.csproj"
             }
           }
         }
